@@ -1,0 +1,21 @@
+---
+title: "AREAS"
+author: "Samuel Lozada"
+date: "2025-01-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Area de un ciculo
+
+Para calcular el área deun ciculo vamos a usar la siguiente función:
+
+```{r cars}
+r <- 0.5
+Area <- pi * r^2
+```
+
+
